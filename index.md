@@ -9,12 +9,18 @@ This site highlights my key data analytics projects built using SQL, Python, and
 
 ## 📈 Projects
 
-### [🧮 Superstore Customer Behavior Analysis](https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis)
-Analyzed RFM, CLTV, cohort retention, and repeat purchase patterns.
-
-### [🎾 Who is the Next Tennis GOAT?](https://github.com/Gursimransachar/next-tennis-goat-analysis)
-Compared Next Gen vs Big 3 with SQL + Tableau.
+### 🧮 Superstore Customer Behavior Analysis
+- 📂 [GitHub Repository](https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis)
+- 📊 [Kaggle Notebook](https://www.kaggle.com/code/gursimransachar/superstore-customer-behavior-analysis)
+- **Overview**: Analyzed RFM, CLTV, cohort retention, and repeat purchase patterns using Python and Tableau.
 
 ---
 
-📧 Contact me on [LinkedIn](https://www.linkedin.com/in/gursimransachar)
+### 🎾 Who is the Next Tennis GOAT?
+- 📂 [GitHub Repository](https://github.com/Gursimransachar/next-tennis-goat-analysis)
+- 📊 [Kaggle Notebook](https://www.kaggle.com/code/gursimransachar/next-tennis-goat)
+- **Overview**: Compared Next Gen players vs Big 3 legends using SQL and Tableau to evaluate future GOAT potential.
+
+---
+
+📧 Contact me on [LinkedIn]([https://www.linkedin.com/in/gursimransachar](https://www.linkedin.com/in/gs098/))
