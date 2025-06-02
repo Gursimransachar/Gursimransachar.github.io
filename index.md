@@ -23,24 +23,24 @@ This site highlights my key data analytics projects built using SQL, Python, and
 ---
 ## Experience
 **Marketing Analytics Co-op Student**  
-Federated Co-operatives Ltd., Saskatoon, Canada (Jan 2024 – Dec 2024)
+Federated Co-operatives Ltd., Saskatoon, Canada (Jan 2024 – Dec 2024)<br>
 - Analyzed marketing campaign performance using Salesforce, Looker Studio, Google Analytics, and Membership 360  
 - Created KPI dashboards and reports to support monthly decision-making  
 - Presented insights and visualizations to marketing stakeholders  
 
 **Tech Analyst**  
-Infosys Ltd, Bangalore, India (Jun 2018 – Aug 2022)
+Infosys Ltd, Bangalore, India (Jun 2018 – Aug 2022)<br>
 - Led a 5-member team to deliver analytics for Telstra (Australia's largest telecom company)  
 - Developed Tableau dashboards and resolved data governance issues to improve productivity  
 - Built Excel-based tools saving 6–8 man-hours weekly  
 
 **Internship Trainee – Android Developer & SEO**  
-Lybrate, Delhi, India (Jan 2018 – Jun 2018)
+Lybrate, Delhi, India (Jan 2018 – Jun 2018)<br>
 - Built a reception-facing Android app  
 - Implemented SEO strategies for website optimization  
 
 **Teaching Assistant (Business Analytics & Ethics)**  
-University of Saskatchewan (Jan 2025 – Present)
+University of Saskatchewan (Jan 2025 – Present)<br>
 - Graded student submissions in SQL, Tableau, R, and ethics frameworks
 
 ---
