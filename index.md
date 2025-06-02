@@ -9,13 +9,13 @@ This site highlights my key data analytics projects built using SQL, Python, and
 
 ## Projects
 
-### 🧮 Superstore Customer Behavior Analysis
+### 🧮 Superstore Customer Behavior Analysis<br>
 - 📂 [GitHub Repository](https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis)
 - 📊 [Kaggle Notebook](https://www.kaggle.com/code/gursimransachar/superstore-customer-behavior-analysis)
 - **Overview**: Analyzed RFM, CLTV, cohort retention, and repeat purchase patterns using Python and Tableau.
 
 ---
-### 🎾 Who is the Next Tennis GOAT?
+### 🎾 Who is the Next Tennis GOAT?<br>
 - 📂 [GitHub Repository](https://github.com/Gursimransachar/next-tennis-goat-analysis)
 - 📊 [Kaggle Notebook](https://www.kaggle.com/code/gursimransachar/next-tennis-goat)
 - **Overview**: Compared Next Gen players vs Big 3 legends using SQL and Tableau to evaluate future GOAT potential.
