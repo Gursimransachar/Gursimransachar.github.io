@@ -10,7 +10,7 @@ This site highlights my key data analytics projects built using SQL, Python, and
 ## Projects
 
 ### 🧮 Superstore Customer Behavior Analysis
-<p style="margin:0">- [GitHub Repository](https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis)
+<p style="margin:0">- [GitHub Repository](https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis)</p>
 - [Kaggle Notebook](https://www.kaggle.com/code/gursimransachar/superstore-customer-behavior-analysis)
 - **Overview**: Analyzed RFM, CLTV, cohort retention, and repeat purchase patterns using Python and Tableau.
 
