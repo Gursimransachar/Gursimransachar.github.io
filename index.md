@@ -3,11 +3,11 @@ layout: default
 title: Gursimran Sachar Portfolio
 ---
 
-# 👋 Welcome to My Portfolio
+# Welcome to My Portfolio
 
 This site highlights my key data analytics projects built using SQL, Python, and Tableau.
 
-## 📈 Projects
+## Projects
 
 ### 🧮 Superstore Customer Behavior Analysis
 - 📂 [GitHub Repository](https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis)
@@ -23,7 +23,7 @@ This site highlights my key data analytics projects built using SQL, Python, and
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Marketing Analytics Co-op Student**  
 Federated Co-operatives Ltd., Saskatoon, Canada (Jan 2024 – Dec 2024)  
@@ -48,7 +48,7 @@ University of Saskatchewan (Jan 2025 – Present)
 
 ---
 
-## 🎓 Education
+## Education
 
 **MBA – Edwards School of Business**  
 University of Saskatchewan, Canada (Aug 2023 – Present)
@@ -58,7 +58,7 @@ Thapar University, India (Jul 2014 – Jun 2018)
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Google Analytics 4 – Skillshop (Google)
 - Google Data Analytics – Coursera (Google)
@@ -67,7 +67,7 @@ Thapar University, India (Jul 2014 – Jun 2018)
 
 ---
 
-## 🧠 Skills
+## Skills
 
 **Tools & Tech**: SQL, Python, Tableau, Power BI, R, Excel, SaaS  
 **Marketing Analytics**: Google Analytics, Looker Studio, Salesforce  
@@ -76,7 +76,7 @@ Thapar University, India (Jul 2014 – Jun 2018)
 
 ---
 
-## 🏆 Awards & Scholarships
+## Awards & Scholarships
 
 - Jack and Clara Milavsky Award ($2,000) – Edwards School of Business  
 - 2024 FCL Scholarship Recipient ($1,000) – Federated Co-operatives Ltd.  
