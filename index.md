@@ -8,7 +8,6 @@ title: Gursimran Sachar Portfolio
 This site highlights my key data analytics projects built using SQL, Python, and Tableau.
 
 ## Projects
-
 ### 🧮 Superstore Customer Behavior Analysis
 - [GitHub Repository](https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis)
 - [Kaggle Notebook](https://www.kaggle.com/code/gursimransachar/superstore-customer-behavior-analysis)
