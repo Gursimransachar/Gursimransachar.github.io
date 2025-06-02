@@ -9,13 +9,13 @@ This site highlights my key data analytics projects built using SQL, Python, and
 
 ## Projects
 
-### 🧮 Superstore Customer Behavior Analysis<br>
+### 🧮 Superstore Customer Behavior Analysis
 - 📂 [GitHub Repository](https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis)
 - 📊 [Kaggle Notebook](https://www.kaggle.com/code/gursimransachar/superstore-customer-behavior-analysis)
 - **Overview**: Analyzed RFM, CLTV, cohort retention, and repeat purchase patterns using Python and Tableau.
 
 ---
-### 🎾 Who is the Next Tennis GOAT?<br>
+### 🎾 Who is the Next Tennis GOAT?
 - 📂 [GitHub Repository](https://github.com/Gursimransachar/next-tennis-goat-analysis)
 - 📊 [Kaggle Notebook](https://www.kaggle.com/code/gursimransachar/next-tennis-goat)
 - **Overview**: Compared Next Gen players vs Big 3 legends using SQL and Tableau to evaluate future GOAT potential.
@@ -23,19 +23,19 @@ This site highlights my key data analytics projects built using SQL, Python, and
 ---
 ## Experience
 **Marketing Analytics Co-op Student**  
-Federated Co-operatives Ltd., Saskatoon, Canada (Jan 2024 – Dec 2024)<br>
+Federated Co-operatives Ltd., Saskatoon, Canada (Jan 2024 – Dec 2024)
 - Analyzed marketing campaign performance using Salesforce, Looker Studio, Google Analytics, and Membership 360  
 - Created KPI dashboards and reports to support monthly decision-making  
 - Presented insights and visualizations to marketing stakeholders  
 
 **Tech Analyst**  
-Infosys Ltd, Bangalore, India (Jun 2018 – Aug 2022)<br>
+Infosys Ltd, Bangalore, India (Jun 2018 – Aug 2022)
 - Led a 5-member team to deliver analytics for Telstra (Australia's largest telecom company)  
 - Developed Tableau dashboards and resolved data governance issues to improve productivity  
 - Built Excel-based tools saving 6–8 man-hours weekly  
 
 **Internship Trainee – Android Developer & SEO**  
-Lybrate, Delhi, India (Jan 2018 – Jun 2018)<br>
+Lybrate, Delhi, India (Jan 2018 – Jun 2018)
 - Built a reception-facing Android app  
 - Implemented SEO strategies for website optimization  
 
