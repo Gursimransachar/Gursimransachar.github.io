@@ -23,4 +23,4 @@ This site highlights my key data analytics projects built using SQL, Python, and
 
 ---
 
-📧 Contact me on [LinkedIn]([https://www.linkedin.com/in/gursimransachar](https://www.linkedin.com/in/gs098/))
+📧 Contact me on [LinkedIn](https://www.linkedin.com/in/gs098/)
