@@ -4,7 +4,7 @@ logo: Headshot.jpg
 description: B.E. (CS), MBA | Data Analyst • Marketing Analyst • Tech Analyst 
 show_downloads: false
 links:
-  - title: View my Kaggle profile
+  - navigation: View my Kaggle profile
     url: https://www.kaggle.com/gursimransachar
 github:
   is_project_page: false
